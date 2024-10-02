@@ -400,9 +400,7 @@ Medium:
     d) To monitor network traffic  
     ```Answer: b) To act as a decoy system to attract attackers and study their methods```
 
-27. **Which of the following is an example of a social
-
- engineering attack?**  
+27. **Which of the following is an example of a social engineering attack?**  
     a) Sending a user a fake software update  
     b) Eavesdropping on a network connection  
     c) Phishing emails designed to trick users into providing confidential information  
@@ -429,3 +427,147 @@ Medium:
     c) TLS is used for encryption, while SSL is used for authentication  
     d) They are the same protocol  
     ```Answer: a) TLS is the newer, more secure version of SSL```  
+
+
+Hard:
+--------------------------------------------------------
+
+1. **Which of the following best describes a race condition in software development?**  
+   a) An issue where two processes attempt to access shared resources in an unpredictable order, leading to unexpected behavior  
+   b) An attack that relies on brute force to guess passwords  
+   c) A situation where multiple systems compete for network bandwidth  
+   d) A vulnerability caused by incorrect memory management  
+   ```Answer: a) An issue where two processes attempt to access shared resources in an unpredictable order, leading to unexpected behavior```
+
+2. **Which layer of the OSI model is responsible for establishing, managing, and terminating sessions between applications?**  
+   a) Data Link layer  
+   b) Network layer  
+   c) Session layer  
+   d) Transport layer  
+   ```Answer: c) Session layer```
+
+3. **What is the primary function of the Address Resolution Protocol (ARP)?**  
+   a) To translate IP addresses into domain names  
+   b) To resolve IP addresses into MAC addresses  
+   c) To encrypt data packets for secure communication  
+   d) To manage routing tables for network traffic  
+   ```Answer: b) To resolve IP addresses into MAC addresses```
+
+4. **Which of the following techniques is most commonly used in defense against SQL injection attacks?**  
+   a) Enabling strong passwords  
+   b) Encrypting sensitive data  
+   c) Input validation and parameterized queries  
+   d) Using a firewall to block suspicious IPs  
+   ```Answer: c) Input validation and parameterized queries```
+
+5. **What is a "null session" in the context of Windows networking?**  
+   a) An encrypted session that provides anonymous access  
+   b) A session that has no active data transfer  
+   c) A connection to a Windows system with no authentication, allowing anonymous access to resources  
+   d) A type of denial-of-service attack  
+   ```Answer: c) A connection to a Windows system with no authentication, allowing anonymous access to resources```
+
+6. **In terms of security, what is a "sandbox" used for?**  
+   a) To encrypt files for secure storage  
+   b) To isolate and test potentially malicious code in a controlled environment  
+   c) To prevent cross-site scripting (XSS) attacks  
+   d) To perform automated backups of critical systems  
+   ```Answer: b) To isolate and test potentially malicious code in a controlled environment```
+
+7. **Which of the following describes the concept of "defense in depth"?**  
+   a) Relying solely on firewalls to secure a network  
+   b) Implementing multiple layers of security controls to protect against potential threats  
+   c) Using a single security solution to address all vulnerabilities  
+   d) Encrypting all data transmissions across the network  
+   ```Answer: b) Implementing multiple layers of security controls to protect against potential threats```
+
+8. **What is the main purpose of the Principle of Least Privilege (PoLP) in access control?**  
+   a) To allow users full access to resources when needed  
+   b) To restrict user access to only the minimum necessary resources required for their role  
+   c) To grant administrative rights to all users for convenience  
+   d) To simplify the process of password management  
+   ```Answer: b) To restrict user access to only the minimum necessary resources required for their role```
+
+9. **Which of the following protocols is vulnerable to a downgrade attack?**  
+   a) HTTPS  
+   b) TLS  
+   c) FTP  
+   d) SSL  
+   ```Answer: d) SSL```
+
+10. **In the context of network security, what is the purpose of Network Access Control (NAC)?**  
+    a) To monitor and filter network traffic for malicious activity  
+    b) To enforce security policies and control access to the network based on user identity, device, and compliance  
+    c) To encrypt all data transmitted over the network  
+    d) To restrict access to certain websites based on content  
+    ```Answer: b) To enforce security policies and control access to the network based on user identity, device, and compliance```
+
+11. **What is a common method used to mitigate cross-site request forgery (CSRF) attacks?**  
+    a) Input validation  
+    b) Two-factor authentication  
+    c) Implementing anti-CSRF tokens in web forms  
+    d) Using an intrusion detection system (IDS)  
+    ```Answer: c) Implementing anti-CSRF tokens in web forms```
+
+12. **Which of the following describes the concept of “security through obscurity”?**  
+    a) The practice of hiding system details to avoid attacks  
+    b) Encrypting sensitive data to prevent unauthorized access  
+    c) Using multifactor authentication to enhance security  
+    d) Implementing firewalls to block incoming threats  
+    ```Answer: a) The practice of hiding system details to avoid attacks```
+
+13. **What is the main function of the Kerberos protocol in network security?**  
+    a) To encrypt data at rest  
+    b) To perform asymmetric encryption of files  
+    c) To provide mutual authentication between a client and a server  
+    d) To hash user passwords for secure storage  
+    ```Answer: c) To provide mutual authentication between a client and a server```
+
+14. **Which of the following describes a “watering hole attack”?**  
+    a) An attacker infects a popular website that their target is likely to visit  
+    b) An attacker floods a network with traffic to cause disruption  
+    c) An attacker sends phishing emails to multiple targets  
+    d) An attacker cracks the password of a user to gain access  
+    ```Answer: a) An attacker infects a popular website that their target is likely to visit```
+
+15. **Which of the following statements is true about the role of a data loss prevention (DLP) system?**  
+    a) It blocks incoming malware by filtering traffic  
+    b) It prevents sensitive data from being transmitted outside the organization  
+    c) It monitors user behavior to prevent phishing attacks  
+    d) It encrypts data to protect it from unauthorized access  
+    ```Answer: b) It prevents sensitive data from being transmitted outside the organization```
+
+16. **What is the primary objective of penetration testing?**  
+    a) To implement strong security controls  
+    b) To identify and exploit vulnerabilities in a system to assess its security posture  
+    c) To develop new encryption algorithms  
+    d) To monitor real-time network traffic  
+    ```Answer: b) To identify and exploit vulnerabilities in a system to assess its security posture```
+
+17. **Which type of attack leverages weaknesses in a web application's code to execute unintended commands?**  
+    a) SQL injection  
+    b) Man-in-the-Middle  
+    c) Denial-of-Service (DoS)  
+    d) Brute force attack  
+    ```Answer: a) SQL injection```
+
+18. **In cloud security, what does the concept of "shared responsibility" mean?**  
+    a) Both the cloud provider and the customer have shared liability for security breaches  
+    b) The cloud provider is responsible for the infrastructure, while the customer is responsible for data security  
+    c) The customer is solely responsible for all security measures  
+    d) Both the cloud provider and the customer share data encryption keys  
+    ```Answer: b) The cloud provider is responsible for the infrastructure, while the customer is responsible for data security```
+
+19. **What is the primary role of an Intrusion Detection System (IDS)?**  
+    a) To block unauthorized access to a network  
+    b) To detect and alert administrators of potential malicious activity within a network  
+    c) To prevent viruses and malware from infecting systems  
+    d) To encrypt all data being transmitted over the network  
+    ```Answer: b) To detect and alert administrators of potential malicious activity within a network```
+
+20. **What is a primary characteristic of an Advanced Persistent Threat (APT)?**  
+    a) It uses brute force to gain access to systems  
+    b) It is a highly targeted, long-term attack aimed at stealing data or causing damage without immediate detection  
+    c) It targets publicly available websites with massive amounts of traffic  
+    d) It involves the use of simple phishing techniques  
+    ```Answer: b) It is a highly targeted, long-term attack aimed at stealing data or causing damage without immediate detection```
