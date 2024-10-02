@@ -213,3 +213,219 @@ Easy:
    c) To design firewalls  
    d) To create encryption keys  
    **Answer:** b) To handle and mitigate security breaches
+
+
+
+Medium:
+------------------------------------------------------------------------------
+1. **What is the primary purpose of a Security Information and Event Management (SIEM) system?**  
+   a) Encrypt data  
+   b) Monitor and analyze security-related data across an organization  
+   c) Prevent unauthorized access  
+   d) Backup and restore systems  
+   ```Answer: b) Monitor and analyze security-related data across an organization```
+
+2. **Which type of malware disguises itself as legitimate software?**  
+   a) Worm  
+   b) Virus  
+   c) Trojan horse  
+   d) Rootkit  
+   ```Answer: c) Trojan horse```
+
+3. **What is the primary function of a proxy server?**  
+   a) To block malware  
+   b) To allow anonymous browsing by masking the user's IP address  
+   c) To encrypt all network traffic  
+   d) To prevent brute force attacks  
+   ```Answer: b) To allow anonymous browsing by masking the user's IP address```
+
+4. **What is the main difference between a worm and a virus?**  
+   a) A worm requires user interaction to spread, while a virus does not  
+   b) A worm spreads on its own, while a virus requires user action  
+   c) A virus is more destructive than a worm  
+   d) Worms only affect mobile devices  
+   ```Answer: b) A worm spreads on its own, while a virus requires user action```
+
+5. **Which of the following best describes a Man-in-the-Middle (MitM) attack?**  
+   a) An attacker intercepts and alters communication between two parties  
+   b) An attacker sends a large number of emails to a target  
+   c) An attacker attempts to guess passwords  
+   d) An attacker installs malware on a system  
+   ```Answer: a) An attacker intercepts and alters communication between two parties```
+
+6. **Which of the following is a symmetric encryption algorithm?**  
+   a) RSA  
+   b) AES  
+   c) ECC  
+   d) DSA  
+   ```Answer: b) AES```
+
+7. **What is the role of a Certificate Authority (CA) in Public Key Infrastructure (PKI)?**  
+   a) To issue digital certificates and verify identities  
+   b) To create and manage private keys  
+   c) To decrypt encrypted messages  
+   d) To monitor network traffic for suspicious activity  
+   ```Answer: a) To issue digital certificates and verify identities```
+
+8. **What does a Host-based Intrusion Detection System (HIDS) monitor?**  
+   a) Network traffic  
+   b) System files and processes on a specific device  
+   c) Web application traffic  
+   d) Physical security systems  
+   ```Answer: b) System files and processes on a specific device```
+
+9. **What is the primary goal of an Advanced Persistent Threat (APT)?**  
+   a) To disrupt business operations  
+   b) To gain long-term unauthorized access to a system to steal information  
+   c) To damage hardware  
+   d) To deface websites  
+   ```Answer: b) To gain long-term unauthorized access to a system to steal information```
+
+10. **Which of the following is an example of a hashing algorithm?**  
+    a) RSA  
+    b) MD5  
+    c) AES  
+    d) TLS  
+    ```Answer: b) MD5```
+
+11. **What is a common characteristic of spear phishing attacks?**  
+    a) They are sent randomly to large numbers of people  
+    b) They target specific individuals or organizations with personalized messages  
+    c) They use brute force methods to guess passwords  
+    d) They rely on malware to infect systems  
+    ```Answer: b) They target specific individuals or organizations with personalized messages```
+
+12. **What is a buffer overflow attack?**  
+    a) An attack that sends too much data to a program's memory, causing it to crash or execute malicious code  
+    b) An attack that relies on stealing session tokens  
+    c) An attack that encrypts files until a ransom is paid  
+    d) An attack that mimics legitimate services to steal information  
+    ```Answer: a) An attack that sends too much data to a program's memory, causing it to crash or execute malicious code```
+
+13. **What is the function of a sandbox in cybersecurity?**  
+    a) A system that blocks all network traffic  
+    b) An isolated environment for testing and analyzing potentially malicious software  
+    c) A secure location for storing encryption keys  
+    d) A tool for performing penetration testing  
+    ```Answer: b) An isolated environment for testing and analyzing potentially malicious software```
+
+14. **Which of the following is a benefit of using multifactor authentication (MFA)?**  
+    a) It replaces the need for strong passwords  
+    b) It makes phishing attacks impossible  
+    c) It adds an extra layer of security by requiring additional verification methods  
+    d) It speeds up the login process  
+    ```Answer: c) It adds an extra layer of security by requiring additional verification methods```
+
+15. **Which type of attack takes advantage of a system’s vulnerabilities before a patch is available?**  
+    a) Ransomware attack  
+    b) Zero-day attack  
+    c) Phishing attack  
+    d) DDoS attack  
+    ```Answer: b) Zero-day attack```
+
+16. **What does the term “sandboxing” refer to in the context of malware detection?**  
+    a) Scanning files with antivirus software  
+    b) Isolating suspicious programs in a controlled environment to observe their behavior  
+    c) Encrypting files to prevent unauthorized access  
+    d) Blocking all outgoing traffic until verified  
+    ```Answer: b) Isolating suspicious programs in a controlled environment to observe their behavior```
+
+17. **What is the purpose of an intrusion prevention system (IPS)?**  
+    a) To block malware  
+    b) To detect and prevent unauthorized access to networks  
+    c) To monitor network traffic passively  
+    d) To encrypt sensitive data  
+    ```Answer: b) To detect and prevent unauthorized access to networks```
+
+18. **Which of the following best describes a cross-site scripting (XSS) attack?**  
+    a) An attack that injects malicious code into a website, which is executed by other users  
+    b) An attack that crashes the web server with too many requests  
+    c) An attack that infects the user’s device with ransomware  
+    d) An attack that spoofs a legitimate website  
+    ```Answer: a) An attack that injects malicious code into a website, which is executed by other users```
+
+19. **What is an exploit kit?**  
+    a) A tool that helps secure networks from attacks  
+    b) A toolkit used by attackers to exploit vulnerabilities in systems  
+    c) A software development tool for creating secure code  
+    d) A patch to fix security vulnerabilities  
+    ```Answer: b) A toolkit used by attackers to exploit vulnerabilities in systems```
+
+20. **What is the purpose of network segmentation?**  
+    a) To increase the speed of the network  
+    b) To separate different parts of the network to enhance security and limit damage during an attack  
+    c) To prevent users from accessing the internet  
+    d) To block malware infections  
+    ```Answer: b) To separate different parts of the network to enhance security and limit damage during an attack```
+
+21. **Which of the following is true about public key cryptography?**  
+    a) The same key is used for encryption and decryption  
+    b) One key is used for encryption and a different key is used for decryption  
+    c) It can only be used for encrypting text messages  
+    d) It’s less secure than symmetric encryption  
+    ```Answer: b) One key is used for encryption and a different key is used for decryption```
+
+22. **What is the goal of a SQL injection attack?**  
+    a) To steal a user’s session token  
+    b) To execute malicious SQL commands on a database  
+    c) To encrypt files on a user’s device  
+    d) To exploit buffer overflow vulnerabilities  
+    ```Answer: b) To execute malicious SQL commands on a database```
+
+23. **Which of the following is a common method for defending against brute force attacks?**  
+    a) Using CAPTCHAs  
+    b) Installing a firewall  
+    c) Disabling user accounts after a certain number of failed login attempts  
+    d) Regularly clearing browser cookies  
+    ```Answer: c) Disabling user accounts after a certain number of failed login attempts```
+
+24. **What does a digital signature ensure?**  
+    a) The confidentiality of a message  
+    b) The authenticity and integrity of a message  
+    c) The encryption of sensitive data  
+    d) The speed of the message delivery  
+    ```Answer: b) The authenticity and integrity of a message```
+
+25. **Which type of attack aims to overwhelm a system with a flood of traffic?**  
+    a) Man-in-the-Middle attack  
+    b) Denial of Service (DoS) attack  
+    c) SQL Injection  
+    d) Phishing  
+    ```Answer: b) Denial of Service (DoS) attack```
+
+26. **What is the purpose of a honeypot in cybersecurity?**  
+    a) To encrypt sensitive data  
+    b) To act as a decoy system to attract attackers and study their methods  
+    c) To back up important files  
+    d) To monitor network traffic  
+    ```Answer: b) To act as a decoy system to attract attackers and study their methods```
+
+27. **Which of the following is an example of a social
+
+ engineering attack?**  
+    a) Sending a user a fake software update  
+    b) Eavesdropping on a network connection  
+    c) Phishing emails designed to trick users into providing confidential information  
+    d) Scanning for open ports on a network  
+    ```Answer: c) Phishing emails designed to trick users into providing confidential information```
+
+28. **Which of the following describes the principle of least privilege?**  
+    a) Granting users only the access necessary to perform their job functions  
+    b) Allowing users unrestricted access to system resources  
+    c) Setting a maximum timeout for user sessions  
+    d) Encrypting user data with the least secure algorithm  
+    ```Answer: a) Granting users only the access necessary to perform their job functions```
+
+29. **What is the purpose of the CIA triad in cybersecurity?**  
+    a) To define the three types of cyberattacks  
+    b) To ensure the confidentiality, integrity, and availability of information  
+    c) To create a secure backup strategy  
+    d) To manage access control in networks  
+    ```Answer: b) To ensure the confidentiality, integrity, and availability of information```
+
+30. **What is the difference between TLS and SSL?**  
+    a) TLS is the newer, more secure version of SSL  
+    b) SSL is more secure than TLS  
+    c) TLS is used for encryption, while SSL is used for authentication  
+    d) They are the same protocol  
+    ```Answer: a) TLS is the newer, more secure version of SSL```  
