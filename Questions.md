@@ -14,9 +14,9 @@ Easy:
 2. **Which of the following is a strong password?**  
    a) password123  
    b) admin  
-   c) 123456  
-   d) P@ssw0rd!2024  
-   **Answer:** d) P@ssw0rd!2024
+   c) P@ssw0rd!2024  
+   d) IEEE_Cyber_Booth_Is_The_Best_Booth_Here_AvadaKadavra  
+   **Answer:** d) IEEE_Cyber_Booth_Is_The_Best_Booth_Here_AvadaKadavra
 
 3. **What is phishing?**  
    a) A type of firewall  
